@@ -1,0 +1,3 @@
+Ad:Burak Soyad:Gomec No:2322 Tip:YuksekLisans
+Ad:Cem Soyad:Kocabiyik No:556 Tip:YuksekLisans
+Ad:Can Soyad:Saracoglu No:556 Tip:YuksekLisans

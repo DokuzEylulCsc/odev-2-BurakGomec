@@ -1,0 +1,7 @@
+c:\users\burak\documents\visual studio 2015\Projects\Odev2\Odev2\bin\Debug\Odev2.exe.config
+c:\users\burak\documents\visual studio 2015\Projects\Odev2\Odev2\bin\Debug\Odev2.exe
+c:\users\burak\documents\visual studio 2015\Projects\Odev2\Odev2\bin\Debug\Odev2.pdb
+c:\users\burak\documents\visual studio 2015\Projects\Odev2\Odev2\obj\Debug\Odev2.exe
+c:\users\burak\documents\visual studio 2015\Projects\Odev2\Odev2\obj\Debug\Odev2.pdb
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\Odev2\Odev2\obj\Debug\Odev2.csprojAssemblyReference.cache
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\Odev2\Odev2\obj\Debug\Odev2.csproj.CoreCompileInputs.cache
